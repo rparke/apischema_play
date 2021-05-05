@@ -9,3 +9,4 @@ from apischema.json_schema import deserialization_schema
 class Foo:
     bar: Union[int, UndefinedType] = Undefined
     baz: Union[int, UndefinedType, None] = Undefined
+
