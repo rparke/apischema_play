@@ -1,4 +1,4 @@
-name: base
+name: apischema
 channels:
   - defaults
 dependencies:
@@ -70,4 +70,4 @@ dependencies:
     - pyparsing==2.4.7
     - pytest==6.2.4
     - toml==0.10.2
-prefix: /opt/conda
+
